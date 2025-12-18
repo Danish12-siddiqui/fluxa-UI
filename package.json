@@ -1,5 +1,5 @@
 {
-  "name": "agriculture-ai",
+  "name": "fluxa",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "framer-motion": "^12.23.26",
     "next": "16.0.10",
     "react": "19.2.1",
     "react-dom": "19.2.1"
